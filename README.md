@@ -2,6 +2,8 @@
 
 This tests the AXI-Lite protocol
 
+## Example
+
 ``` python
 
 import cocotb
